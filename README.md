@@ -4,10 +4,20 @@ This project analyzes rainfall, storm sewer, and pipe data to simulate stormwate
 
 ---
 
+## 🏆 Award & Recognition
+This project was developed for the **Mississauga Open Data Hackathon (2024)**, where it earned an **Honourable Mention Award** for its innovative approach to sustainable stormwater management and its effective use of open environmental data.
+https://opendata-hackathon-2024-mississauga.hub.arcgis.com/
+
+The recognition highlighted:
+- Creative integration of urban infrastructure and climate data  
+- Strong data-driven methodology for real-world environmental impact  
+- Clear visualization and storytelling that made results accessible to decision-makers  
+
+---
+
 ## 🚀 Overview
 Urban flooding is a growing challenge in cities like Toronto due to **climate change** and **rapid urbanization**. This project provides a **data-driven solution** that evaluates how much stormwater can be retained using blue roofs — which store water temporarily to prevent sewer system overloads.
 
-Our workflow integrates and models open environmental data to optimize stormwater management and improve resilience in urban infrastructure.
 
 ---
 
